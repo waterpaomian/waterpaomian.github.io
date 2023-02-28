@@ -1,8 +1,8 @@
 
 # 凉白开的主页
-稽木账号：[这个](https://gitblock.cn/Users/1229658)
+[稽木账号](https://gitblock.cn/Users/1229658)
 
-阿尔法营账号:[这个](https://aerfaying.com/Users/1229658)
+[阿尔法营账号](https://aerfaying.com/Users/1229658)
 
 [金库](https://gitblock.cn/Studios/67751)
 
