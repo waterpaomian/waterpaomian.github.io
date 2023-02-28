@@ -8,4 +8,6 @@
 
 [泡泡](https://im.popoim.com/im/web)
 
-正在准备的作品![image](https://user-images.githubusercontent.com/126471313/221559062-363b5412-eb7c-4b45-8d28-147cb209a33e.png)
+正在招聘新作内测员
+# 关于凉白开{.alert .alert-info} 
+来自北京
