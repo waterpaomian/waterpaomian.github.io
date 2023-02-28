@@ -9,5 +9,5 @@
 [泡泡](https://im.popoim.com/im/web)
 
 正在招聘新作内测员
-# 关于凉白开{.alert .alert-info} 
+关于凉白开{.alert .alert-info} 
 来自北京
