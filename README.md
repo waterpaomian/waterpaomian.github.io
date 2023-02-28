@@ -16,3 +16,6 @@
 本人爱玩TFGS，半螈半人。喜欢氪金，所以半年就到了14级。**实在是太逊了
 
 # [纯画笔TFGS](https://gitblock.cn/Projects/1157709)
+
+邮箱：WTPM0522@outlook.com
+qq:2781742600
