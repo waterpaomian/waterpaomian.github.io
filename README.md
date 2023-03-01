@@ -7,8 +7,6 @@
 
 [泡泡](https://im.popoim.com/im/web)
 
-***正在招聘新作内测员***
-
 # 关于凉白开
 来自北京朝阳区，系统的学习过c++、python，自学scratch、PHP、HTML。
 
