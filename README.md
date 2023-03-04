@@ -18,6 +18,10 @@
 
 qq:2781742600
 
+[random](https://www.runoob.com/python/func-number-random.html)
+
+[turtle](https://blog.csdn.net/zengxiantao1994/article/details/76588580)
+
 [路障查询](https://isolator-cf.saobby.cf/)
 
 # 名言警句
