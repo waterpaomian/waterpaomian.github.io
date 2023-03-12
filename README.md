@@ -8,7 +8,7 @@
 [泡泡](https://im.popoim.com/im/web)
 
 # 关于凉白开
-来自北京朝阳区，系统的学习过c++、python，自学scratch、PHP、HTML。
+来自北京朝阳区，生日5月22日，系统的学习过c++、python，自学scratch、PHP、HTML。
 
 本人爱玩TFGS，半螈半人。喜欢氪金，所以半年就到了14级。**实在是太逊了**
 
