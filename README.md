@@ -27,6 +27,12 @@ qq:2781742600
 # 名言警句
 ![image](https://user-images.githubusercontent.com/126471313/221842565-9e8a8519-ffef-4881-9e1b-a604e0bfc365.png)
 
+![image](https://user-images.githubusercontent.com/126471313/225297215-164c66ba-d484-4337-88c4-c3d15e6239b6.png)
+
+![image](https://user-images.githubusercontent.com/126471313/225297246-92302d21-4860-462b-a8e5-c09ea3c08875.png)
+
+![image](https://user-images.githubusercontent.com/126471313/221844356-9e890519-245f-4976-a649-7fac852da684.png)
+
 ![image](https://user-images.githubusercontent.com/126471313/221842595-f13082a9-5c27-473b-8d82-00ce4e8505b9.png)
 
 ![image](https://user-images.githubusercontent.com/126471313/221843014-0a737e39-ea69-4db2-a70f-0333e901671d.png)
@@ -41,7 +47,6 @@ qq:2781742600
 
 ![image](https://user-images.githubusercontent.com/126471313/221844228-c51cdb26-66cb-4bbe-b16c-29010c92dbc9.png)
 
-![image](https://user-images.githubusercontent.com/126471313/221844356-9e890519-245f-4976-a649-7fac852da684.png)
 
 ![image](https://user-images.githubusercontent.com/126471313/222708061-a517c3bc-ce0e-4c62-99e3-e0d569d9e8df.png)
 
