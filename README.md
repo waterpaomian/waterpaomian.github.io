@@ -27,6 +27,9 @@ qq:2781742600
 # 名言警句
 ![image](https://user-images.githubusercontent.com/126471313/221842565-9e8a8519-ffef-4881-9e1b-a604e0bfc365.png)
 
+![image](https://user-images.githubusercontent.com/126471313/225297771-8e3b9d03-db0c-4bef-bb9a-b1b1445b90bc.png)
+
+
 ![image](https://user-images.githubusercontent.com/126471313/225297215-164c66ba-d484-4337-88c4-c3d15e6239b6.png)
 
 ![image](https://user-images.githubusercontent.com/126471313/225297246-92302d21-4860-462b-a8e5-c09ea3c08875.png)
