@@ -24,7 +24,7 @@ qq:2781742600
 
 # [在线c++编译器](https://www.json.cn/runcode/run_cpp920/)
 
-[路障查询](https://isolator-cf.saobby.cf/)
+[路障查询](https://isolator.saobby.tk/)
 
 # 名言警句
 ![image](https://user-images.githubusercontent.com/126471313/221842565-9e8a8519-ffef-4881-9e1b-a604e0bfc365.png)
