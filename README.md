@@ -28,6 +28,15 @@ qq:2781742600
 
 [路障查询](https://isolator.saobby.tk/)
 
+# 友站
+[saobby的主页](https://www.saobby.com/)
+
+[羊肉的主页](https://yangrou9999tfgs.github.io/)
+
+[凉白开的副站](https://wtpm.github.io/)
+
+*可以联系站主添加*
+
 # 名言警句
 ![image](https://user-images.githubusercontent.com/126471313/221842565-9e8a8519-ffef-4881-9e1b-a604e0bfc365.png)
 
