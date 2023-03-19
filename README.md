@@ -1,13 +1,13 @@
 
 
 # 凉白开的主页
-[稽木账号](https://gitblock.cn/Users/1229658)
+- [稽木账号](https://gitblock.cn/Users/1229658)
 
-[阿尔法营账号](https://aerfaying.com/Users/1229658)
+- [阿尔法营账号](https://aerfaying.com/Users/1229658)
 
-[金库](https://gitblock.cn/Studios/67751)
+- [金库](https://gitblock.cn/Studios/67751)
 
-[泡泡](https://im.popoim.com/im/web)
+- [泡泡](https://im.popoim.com/im/web)
 
 # 关于凉白开
 来自北京朝阳区，生日5月22日，系统的学习过c++、python，自学scratch、PHP、HTML。
@@ -16,26 +16,26 @@
 
 # [纯画笔TFGS](https://gitblock.cn/Projects/1157709)
 
-邮箱：WTPM0522@outlook.com
+- 邮箱：WTPM0522@outlook.com
 
-qq:2781742600
+- qq:2781742600
 
-[random](https://www.runoob.com/python/func-number-random.html)
+- [random](https://www.runoob.com/python/func-number-random.html)
 
-[turtle](https://blog.csdn.net/zengxiantao1994/article/details/76588580)
+- [turtle](https://blog.csdn.net/zengxiantao1994/article/details/76588580)
 
-[html](https://www.runoob.com/html/html-tutorial.html)
+- [html](https://www.runoob.com/html/html-tutorial.html)
 
 # [在线c++编译器](https://www.json.cn/runcode/run_cpp920/)
 
-[路障查询](https://isolator.saobby.tk/)
+- [路障查询](https://isolator.saobby.tk/)
 
 # 友站
-[saobby的主页](https://www.saobby.com/)
+- [saobby的主页](https://www.saobby.com/)
 
-[羊肉的主页](https://yangrou9999tfgs.github.io/)
+- [羊肉的主页](https://yangrou9999tfgs.github.io/)
 
-[凉白开的副站](https://wtpm.github.io/)
+- [凉白开的副站](https://wtpm.github.io/)
 
 *可以联系站主添加*
 
@@ -89,6 +89,6 @@ qq:2781742600
 
 > 虽然鞭炮是不能吃的，但是在这道菜中，它们的独特香味和脆度为这道菜带来了独特的口感和乐趣，真是让人难以忘怀！
 
-[副站](https://wtpm.github.io/)
+***[副站](https://wtpm.github.io/)***
 
 ***最终解释权归凉白开所有***
