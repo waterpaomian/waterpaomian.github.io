@@ -92,3 +92,4 @@
 ***[副站](https://wtpm.github.io/)***
 
 ***最终解释权归凉白开所有***
+<link rel="shortcut icon" href="https://asset.gitblock.cn/Media?name=F5C7E2D1156AE48018F246A70199A911.png" type="image/x-icon"/>
