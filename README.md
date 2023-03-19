@@ -45,6 +45,9 @@
 # 名言警句
 ![image](https://user-images.githubusercontent.com/126471313/221842565-9e8a8519-ffef-4881-9e1b-a604e0bfc365.png)
 
+![image](https://user-images.githubusercontent.com/126471313/226173824-399d197e-080d-4edf-94f7-2c4c7e9dee36.png)
+
+
 ![image](https://user-images.githubusercontent.com/126471313/225298232-ecd6061f-a359-49b5-abba-ade80f0e245c.png)
 
 ![image](https://user-images.githubusercontent.com/126471313/225299905-63e99129-f6ba-4f80-b72d-5299c2b681a7.png)
