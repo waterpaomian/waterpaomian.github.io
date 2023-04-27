@@ -33,6 +33,8 @@
 
 - [markdown转HTML](https://www.matools.com/markdown)
 
+- [图床](https://imgloc.com/)
+
 # 友站
 - [saobby的主页](https://www.saobby.com/)
 
